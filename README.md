@@ -68,5 +68,5 @@ My goal is to help organizations identify and reduce technology risks, improve s
 
 ##  Connect With Me
 
-- **LinkedIn:** [*(Add your LinkedIn URL)*](https://www.linkedin.com/in/seraphimik/)
+- **LinkedIn:** https://www.linkedin.com/in/seraphimik/
 - **Email:** Seraphimikuomola1@gmail.com
