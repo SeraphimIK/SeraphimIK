@@ -1,10 +1,10 @@
 # Hi, I'm Seraphim
 
-### Aspiring Cybersecurity & IT Audit Professional
+### Aspiring Cybersecurity, IT Audit, and Data Analytics Professional
 
-Welcome to my GitHub! I'm passionate about cybersecurity, IT audit, and governance, risk, and compliance (GRC). I enjoy building hands-on projects that strengthen my skills in risk assessment, security auditing, Windows Server administration, Active Directory, Linux, networking, Python, SQL, and cloud technologies.
+Welcome to my GitHub! I'm passionate about cybersecurity, IT audit, governance, risk, and compliance (GRC), and data analytics. I enjoy building hands-on projects that strengthen my skills in risk assessment, security auditing, SQL, Python, and data visualization.
 
-My goal is to help organizations identify and reduce technology risks, improve security controls, and build resilient IT environments. This GitHub serves as my technical portfolio, showcasing projects that demonstrate practical experience in cybersecurity, automation, and enterprise IT.
+My goal is to help organizations identify and reduce technology risks, improve security controls, and turn raw data into clear, actionable insight. This GitHub serves as my technical portfolio, showcasing projects that demonstrate practical experience across cybersecurity, IT audit, and data analytics.
 
 ---
 
@@ -35,6 +35,8 @@ My goal is to help organizations identify and reduce technology risks, improve s
 - Python
 - SQL
 - Tableau
+- Excel (formula-driven analysis)
+- Data visualization (pandas, matplotlib)
 
 **Tools**
 - Git
@@ -44,7 +46,7 @@ My goal is to help organizations identify and reduce technology risks, improve s
 
 ---
 
-## Featured Projects
+## Featured Projects: Cybersecurity & IT Audit
 
 - [IT Risk Assessment Lab](https://github.com/SeraphimIK/IT-Risk-Assessment-Lab): scores IT risks using a Likelihood x Impact model and maps findings to NIST CSF
 - [Access Control Audit](https://github.com/SeraphimIK/Access-Control-Audit): tests user access against least-privilege and MFA control objectives
@@ -57,11 +59,22 @@ My goal is to help organizations identify and reduce technology risks, improve s
 
 ---
 
+## Featured Projects: Data Analytics
+
+- [MN County Health SQL Analysis](https://github.com/SeraphimIK/mn-county-health-sql-analysis): SQL database and queries analyzing real health data across all 87 Minnesota counties
+- [MN County Health Python Analysis](https://github.com/SeraphimIK/mn-county-health-python-analysis): pandas-based correlation and outlier analysis with matplotlib visualizations
+- [MN County Health Tableau Dashboard](https://github.com/SeraphimIK/mn-county-health-tableau-dashboard): Tableau-ready dataset and full dashboard design for county health data
+- [MN County Poverty & Income Cleaning](https://github.com/SeraphimIK/mn-county-poverty-income-cleaning): cleans a real, messy Census dataset down to Minnesota's 87 counties
+- [MN County Health Excel Summary](https://github.com/SeraphimIK/mn-county-health-excel-summary): Excel workbook built entirely with formulas summarizing county health data
+
+---
+
 ## Current Focus
 
 - IT Audit
 - Cybersecurity
 - Governance, Risk & Compliance (GRC)
+- Data Analytics
 - Cloud Security
 - Security Automation
 
