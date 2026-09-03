@@ -46,14 +46,14 @@ My goal is to help organizations identify and reduce technology risks, improve s
 
 ## Featured Projects
 
-- [IT Risk Assessment Lab](https://github.com/SeraphimIK/IT-Risk-Assessment-Lab) – Scores IT risks using a Likelihood x Impact model and maps findings to NIST CSF
-- [Access Control Audit](https://github.com/SeraphimIK/Access-Control-Audit) – Tests user access against least-privilege and MFA control objectives
-- [Password Policy Compliance Checker](https://github.com/SeraphimIK/Password-Policy-Compliance-Checker) – Compares password policy settings against CIS Benchmark recommendations
-- [Physical Security Controls Assessment](https://github.com/SeraphimIK/Physical-Security-Controls-Assessment) – Scores physical security controls against NIST 800-53 and ISO 27001
-- [Audit Workpaper Templates](https://github.com/SeraphimIK/Audit-Workpaper-Templates) – Reusable audit workpaper templates and generator
-- [Network Port Scanner](https://github.com/SeraphimIK/network-port-scanner) – Multithreaded TCP port scanner that identifies open ports and services
-- [Log File Analyzer](https://github.com/SeraphimIK/log-file-analyzer) – Parses auth logs and flags brute-force and compromised-account activity
-- [Password Security Toolkit](https://github.com/SeraphimIK/password-security-toolkit) – Checks password strength and generates secure passwords with entropy estimates
+- [IT Risk Assessment Lab](https://github.com/SeraphimIK/IT-Risk-Assessment-Lab): scores IT risks using a Likelihood x Impact model and maps findings to NIST CSF
+- [Access Control Audit](https://github.com/SeraphimIK/Access-Control-Audit): tests user access against least-privilege and MFA control objectives
+- [Password Policy Compliance Checker](https://github.com/SeraphimIK/Password-Policy-Compliance-Checker): compares password policy settings against CIS Benchmark recommendations
+- [Physical Security Controls Assessment](https://github.com/SeraphimIK/Physical-Security-Controls-Assessment): scores physical security controls against NIST 800-53 and ISO 27001
+- [Audit Workpaper Templates](https://github.com/SeraphimIK/Audit-Workpaper-Templates): reusable audit workpaper templates and generator
+- [Network Port Scanner](https://github.com/SeraphimIK/network-port-scanner): multithreaded TCP port scanner that identifies open ports and services
+- [Log File Analyzer](https://github.com/SeraphimIK/log-file-analyzer): parses auth logs and flags brute-force and compromised-account activity
+- [Password Security Toolkit](https://github.com/SeraphimIK/password-security-toolkit): checks password strength and generates secure passwords with entropy estimates
 
 ---
 
